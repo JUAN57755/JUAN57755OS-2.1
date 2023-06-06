@@ -1,6 +1,5 @@
 /* The C function */
-    void kmain()
+    int kmain(int arg1, int arg2, int arg3)
     {
-      
+        return arg1 + arg2 + arg3;
     }
-call kmain                 ; call the function
