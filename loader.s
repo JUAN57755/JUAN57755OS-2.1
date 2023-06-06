@@ -32,3 +32,4 @@ global loader                   ; the entry symbol for ELF
         
     .loop:
         jmp .loop                   ; loop forever
+extern kmain               ; the function kmain is defined elsewhere
