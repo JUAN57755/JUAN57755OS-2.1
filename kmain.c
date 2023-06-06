@@ -3,3 +3,4 @@
     {
       
     }
+call kmain                 ; call the function
